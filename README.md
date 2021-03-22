@@ -2,7 +2,6 @@
 
 ### link: https://dumont-marketcommerce4.surge.sh/
 
-```Projeto de um e-commerce de produtos usados desenvolvido durante o curso fullstack da Labenu. No site há as seguintes funcionalidades:``` 
 * Filtro por preço e produtos
 * Cadastro de produtos
 * Carrinho com produtos, preço e subtotal
